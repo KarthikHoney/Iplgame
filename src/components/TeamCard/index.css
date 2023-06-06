@@ -1,0 +1,30 @@
+.TeamCard-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-sm-bg.png');
+  padding: 10px;
+  height: 100vh;
+}
+.heading {
+  color: whitesmoke;
+  font-size: 40px;
+  font-family: 'Lucida Sans';
+}
+.ipl {
+  height: 70px;
+  width: 30px;
+}
+.list-container {
+  max-width: 60%;
+}
+.imgAndHead {
+  display: flex;
+}
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}

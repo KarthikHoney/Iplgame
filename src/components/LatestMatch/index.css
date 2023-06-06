@@ -1,0 +1,55 @@
+.latest-container {
+  background-color: #1e293b;
+  background-size: cover;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.latestDetail {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logoOfTeam {
+  height: 70px;
+  width: 75px;
+}
+.recentMatchContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+  background-color: #ffffff33;
+  border-radius: 7px;
+  background-size: cover;
+}
+.recentMatch {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.teamName {
+  color: white;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+.date {
+  color: wheat;
+  font-size: 19px;
+  font-family: sans-serif;
+}
+.venue {
+  color: white;
+  font-size: 15px;
+}
+.result {
+  color: white;
+  font-size: 15px;
+}
+.line {
+  color: white;
+  width: 2px;
+}
